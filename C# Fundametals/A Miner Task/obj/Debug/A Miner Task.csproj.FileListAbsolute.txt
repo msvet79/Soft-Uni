@@ -1,0 +1,7 @@
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\obj\Debug\A Miner Task.csprojAssemblyReference.cache
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\obj\Debug\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\Svetlio-PC\source\repos\Fundamentals\A Miner Task\obj\Debug\A Miner Task.pdb
